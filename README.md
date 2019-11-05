@@ -36,7 +36,7 @@ UI设计🙃🙃（当时也是自己去网上报班学习的），但我觉得�
 > 引用内容，注意空格
 ```
 
-[我的博客](https://github.com/zheng013/blog-test/edit/master)
+[我的博客](https://github.com/zheng013/blog-test/edit/master/README.md)
 
 
 
